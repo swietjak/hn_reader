@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hn_reader/static/css/main.bc499902.chunk.css",
-    "main.js": "/hn_reader/static/js/main.9747ad39.chunk.js",
-    "main.js.map": "/hn_reader/static/js/main.9747ad39.chunk.js.map",
+    "main.js": "/hn_reader/static/js/main.3a9baa9d.chunk.js",
+    "main.js.map": "/hn_reader/static/js/main.3a9baa9d.chunk.js.map",
     "runtime-main.js": "/hn_reader/static/js/runtime-main.3fe160fa.js",
     "runtime-main.js.map": "/hn_reader/static/js/runtime-main.3fe160fa.js.map",
     "static/js/2.64fc9238.chunk.js": "/hn_reader/static/js/2.64fc9238.chunk.js",
     "static/js/2.64fc9238.chunk.js.map": "/hn_reader/static/js/2.64fc9238.chunk.js.map",
     "index.html": "/hn_reader/index.html",
-    "precache-manifest.4b39cabee8816a871521bca4ef062b4a.js": "/hn_reader/precache-manifest.4b39cabee8816a871521bca4ef062b4a.js",
+    "precache-manifest.f24196968498a204d7d531f88bc7a6ee.js": "/hn_reader/precache-manifest.f24196968498a204d7d531f88bc7a6ee.js",
     "service-worker.js": "/hn_reader/service-worker.js",
     "static/css/main.bc499902.chunk.css.map": "/hn_reader/static/css/main.bc499902.chunk.css.map",
     "static/js/2.64fc9238.chunk.js.LICENSE.txt": "/hn_reader/static/js/2.64fc9238.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3fe160fa.js",
     "static/js/2.64fc9238.chunk.js",
     "static/css/main.bc499902.chunk.css",
-    "static/js/main.9747ad39.chunk.js"
+    "static/js/main.3a9baa9d.chunk.js"
   ]
 }
