@@ -26,7 +26,11 @@ class Article extends React.Component {
   }
 
   render() {
-    const comments = this.returnComments(this.state.storyData.kids);
+    const comments = this.state.storyData ? (
+      this.returnComments(this.state.storyData.kids)
+    ) : (
+      <div></div>
+    );
     console.log(this.props.contentID);
 
     return (
